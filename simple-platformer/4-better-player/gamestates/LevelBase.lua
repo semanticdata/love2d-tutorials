@@ -4,7 +4,7 @@
 local bump = require 'libs.bump.bump'
 local Gamestate = require 'libs.hump.gamestate'
 local Class = require 'libs.hump.class'
-local sti = require 'libs.sti.sti'   -- New addition here
+local sti = require 'libs.sti.sti'                                      -- New addition here
 local Entities = require 'simple-platformer.2-plumbing-a-gamee.entities.Entities'
 local camera = require 'simple-platformer.4-better-playerr.libs.camera' -- New addition here
 
