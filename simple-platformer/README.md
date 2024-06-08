@@ -1,10 +1,5 @@
 # 💜 [LÖVE](https://love2d.org/) - Platformer Tutorial 🏃‍♀️
 
-![code size](https://img.shields.io/github/languages/code-size/semanticdata/love2d-tutorial-platformer)
-![repository size](https://img.shields.io/github/repo-size/semanticdata/love2d-tutorial-platformer)
-![commits](https://img.shields.io/github/commit-activity/t/semanticdata/love2d-tutorial-platformer)
-![last commit](https://img.shields.io/github/last-commit/semanticdata/love2d-tutorial-platformer)
-
 Simple 2D platforming demo written in [Lua](https://www.lua.org/) and powered by [LÖVE](https://love2d.org/), a Free and Open-Source 2D Game Engine.
 
 ## 🖥️ Tutorial
