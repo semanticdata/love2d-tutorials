@@ -1,10 +1,5 @@
 # 💜 [LÖVE](https://love2d.org/) - Scrolling Shooter 🔫
 
-![code size](https://img.shields.io/github/languages/code-size/semanticdata/love2d-scrolling-shooter)
-![repository size](https://img.shields.io/github/repo-size/semanticdata/love2d-scrolling-shooter)
-![commits](https://img.shields.io/github/commit-activity/t/semanticdata/love2d-scrolling-shooter)
-![last commit](https://img.shields.io/github/last-commit/semanticdata/love2d-scrolling-shooter)
-
 Simple scrolling shooter demo written in [Lua](https://www.lua.org/) and powered by [LÖVE](https://love2d.org/), a Free and Open-Source 2D Game Engine.
 
 ## 🖥️ Tutorial
